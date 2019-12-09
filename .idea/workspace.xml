@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/upgrad/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
@@ -55,6 +55,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/upgrad/model/Post.java" />
         <option value="$PROJECT_DIR$/src/main/java/upgrad/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
       </list>
     </option>
   </component>
@@ -178,6 +188,21 @@
               <item name="upgrad" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TechnicalBlogApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechnicalBlogApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechnicalBlogApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechnicalBlogApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,6 +229,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TechnicalBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TechnicalBlogApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upgrad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="upgrad.TechnicalBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TechnicalBlogApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -214,12 +259,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575871421743</updated>
-      <workItem from="1575871428997" duration="1385000" />
+      <workItem from="1575871428997" duration="2225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1385000" />
+    <option name="totallyTimeSpent" value="2225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -309,6 +354,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
